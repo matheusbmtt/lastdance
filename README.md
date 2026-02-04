@@ -98,3 +98,75 @@ Esses princípios são fundamentais para criar produtos digitais **simples, aces
 # 2 e 3:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc219424-1613-4230-8ebc-5ed80bfc5ef5" />
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+# Relatório de Usabilidade: **YouTube** – **Sistema de Comentários**
+
+**App:** YouTube  
+**Funcionalidade Analisada:** Sistema de Comentários
+
+---
+
+## 1. Visibilidade do Status do Sistema  
+**Problema:** Quando o comentário é enviado, não há uma confirmação clara de que ele foi postado, deixando o usuário em dúvida se a ação foi realizada.  
+**Solução:** Adicionar um feedback visual, como uma mensagem de "Comentário postado com sucesso" ou animação breve após o envio.
+
+---
+
+## 2. Correspondência com o Mundo Real  
+**Problema:** O botão de "responder" aos comentários é um ícone pequeno e muitas vezes é confundido com o botão de "curtir".  
+**Solução:** Usar um ícone mais intuitivo ou adicionar o texto "Responder" ao lado do ícone para evitar confusão.
+
+---
+
+## 3. Controle e Liberdade do Usuário  
+**Problema:** Não há uma maneira fácil de editar um comentário depois de postado, o que pode ser frustrante se o usuário cometer um erro de digitação.  
+**Solução:** Incluir uma opção de "Editar comentário" para que o usuário possa corrigir erros ou atualizar a mensagem.
+
+---
+
+## 4. Consistência e Padrões  
+**Problema:** O layout dos comentários pode variar entre diferentes dispositivos (mobile vs desktop), fazendo com que a experiência não seja consistente.  
+**Solução:** Padronizar o layout dos comentários em todas as plataformas, mantendo a posição dos botões e a disposição da interface igual em todas as versões.
+
+---
+
+## 5. Prevenção de Erros  
+**Problema:** Não há confirmação antes de excluir um comentário, o que pode resultar na exclusão acidental de comentários importantes.  
+**Solução:** Incluir uma mensagem de confirmação, como "Tem certeza que deseja excluir este comentário?" antes de realizar a ação.
+
+---
+
+## 6. Reconhecimento ao invés de Recordação  
+**Problema:** Quando há muitos comentários, pode ser difícil para o usuário encontrar o seu próprio comentário ou as respostas às suas postagens.  
+**Solução:** Destacar os comentários do usuário com uma borda ou cor diferente, ou oferecer uma opção para "Ver meus comentários" de forma rápida.
+
+---
+
+## 7. Flexibilidade e Eficiência de Uso  
+**Problema:** Para usuários avançados que querem buscar comentários específicos, não há uma forma rápida de filtrar ou procurar por palavras-chave nos comentários.  
+**Solução:** Implementar uma barra de pesquisa dentro dos comentários, permitindo que o usuário busque por palavras-chave, hashtags ou menções específicas.
+
+---
+
+## 8. Design Estético e Minimalista  
+**Problema:** O número de comentários é mostrado de forma pequena e pode se perder visualmente entre outros dados, como o número de visualizações e likes.  
+**Solução:** Destacar de forma mais visível a quantidade de comentários, talvez com uma cor mais vibrante ou um tamanho maior de fonte.
+
+---
+
+## 9. Ajudar a Reconhecer e Recuperar de Erros  
+**Problema:** Se um comentário for rejeitado por violar diretrizes do YouTube, a mensagem de erro pode ser vaga, deixando o usuário sem saber exatamente o que fez de errado.  
+**Solução:** Mostrar uma mensagem de erro clara e específica, como "Comentário removido por violar as diretrizes de spam" ou "Comentário rejeitado por conter discurso de ódio".
+
+---
+
+## 10. Ajuda e Documentação  
+**Problema:** Usuários novos podem não saber como formatar um comentário de forma interessante (ex: adicionar links, emojis, etc.).  
+**Solução:** Incluir um tutorial simples ou dicas na área de comentários, mostrando como adicionar emojis, links e formatação no comentário.
+
+---
+
+## Conclusão
+
+O sistema de **comentários** do **YouTube** funciona bem, mas poderia ser ainda mais intuitivo e eficiente se algumas melhorias fossem implementadas. Coisas como feedback de envio, a possibilidade de editar comentários e uma pesquisa dentro dos comentários podem tornar a experiência do usuário muito melhor e mais fluida.
